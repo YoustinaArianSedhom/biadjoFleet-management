@@ -1,0 +1,1994 @@
+[
+  {
+    "asset": "ad_flag.png",
+    "dialingCode": "376",
+    "isoCode": "AD",
+    "name": "Andorra",
+    "currency": "Euro",
+    "currencyISO": "EUR"
+  },
+  {
+    "asset": "ae_flag.png",
+    "dialingCode": "971",
+    "isoCode": "AE",
+    "name": "United Arab Emirates",
+    "currency": "United Arab Emirates dirham",
+    "currencyISO": "AED"
+  },
+  {
+    "asset": "af_flag.png",
+    "dialingCode": "93",
+    "isoCode": "AF",
+    "name": "Afghanistan",
+    "currency": "Afghan afghani",
+    "currencyISO": "AFN"
+  },
+  {
+    "asset": "ag_flag.png",
+    "dialingCode": "1",
+    "isoCode": "AG",
+    "name": "Antigua and Barbuda",
+    "currency": "East Caribbean dollar",
+    "currencyISO": "XCD"
+  },
+  {
+    "asset": "ai_flag.png",
+    "dialingCode": "1",
+    "isoCode": "AI",
+    "name": "Anguilla",
+    "currency": "East Caribbean dollar",
+    "currencyISO": "XCD"
+  },
+  {
+    "asset": "al_flag.png",
+    "dialingCode": "355",
+    "isoCode": "AL",
+    "name": "Albania",
+    "currency": "Albanian lek",
+    "currencyISO": "ALL"
+  },
+  {
+    "asset": "am_flag.png",
+    "dialingCode": "374",
+    "isoCode": "AM",
+    "name": "Armenia",
+    "currency": "Armenian dram",
+    "currencyISO": "AMD"
+  },
+  {
+    "asset": "ao_flag.png",
+    "dialingCode": "244",
+    "isoCode": "AO",
+    "name": "Angola",
+    "currency": "Angolan kwanza",
+    "currencyISO": "AOA"
+  },
+  {
+    "asset": "aq_flag.png",
+    "dialingCode": "672",
+    "isoCode": "AQ",
+    "name": "Antarctica",
+    "currency": "United States dollar",
+    "currencyISO": "USD"
+  },
+  {
+    "asset": "ar_flag.png",
+    "dialingCode": "54",
+    "isoCode": "AR",
+    "name": "Argentina",
+    "currency": "Argentine peso",
+    "currencyISO": "ARS"
+  },
+  {
+    "asset": "as_flag.png",
+    "dialingCode": "1",
+    "isoCode": "AS",
+    "name": "American Samoa",
+    "currency": "United States dollar",
+    "currencyISO": "USD"
+  },
+  {
+    "asset": "at_flag.png",
+    "dialingCode": "43",
+    "isoCode": "AT",
+    "name": "Austria",
+    "currency": "Euro",
+    "currencyISO": "EUR"
+  },
+  {
+    "asset": "au_flag.png",
+    "dialingCode": "61",
+    "isoCode": "AU",
+    "name": "Australia",
+    "currency": "Australian dollar",
+    "currencyISO": "AUD"
+  },
+  {
+    "asset": "aw_flag.png",
+    "dialingCode": "297",
+    "isoCode": "AW",
+    "name": "Aruba",
+    "currency": "Aruban florin",
+    "currencyISO": "AWG"
+  },
+  {
+    "asset": "ax_flag.png",
+    "dialingCode": "358",
+    "isoCode": "AX",
+    "name": "Aaland Islands",
+    "currency": "Euro",
+    "currencyISO": "EUR"
+  },
+  {
+    "asset": "az_flag.png",
+    "dialingCode": "994",
+    "isoCode": "AZ",
+    "name": "Azerbaijan",
+    "currency": "Azerbaijani manat",
+    "currencyISO": "AZN"
+  },
+  {
+    "asset": "ba_flag.png",
+    "dialingCode": "387",
+    "isoCode": "BA",
+    "name": "Bosnia and Herzegowina",
+    "currency": "BH dinar",
+    "currencyISO": "BHD"
+  },
+  {
+    "asset": "bb_flag.png",
+    "dialingCode": "1",
+    "isoCode": "BB",
+    "name": "Barbados",
+    "currency": "Barbadian dollar",
+    "currencyISO": "BBD"
+  },
+  {
+    "asset": "bd_flag.png",
+    "dialingCode": "880",
+    "isoCode": "BD",
+    "name": "Bangladesh",
+    "currency": "Bangladeshi taka",
+    "currencyISO": "BDT"
+  },
+  {
+    "asset": "be_flag.png",
+    "dialingCode": "32",
+    "isoCode": "BE",
+    "name": "Belgium",
+    "currency": "Euro",
+    "currencyISO": "EUR"
+  },
+  {
+    "asset": "bf_flag.png",
+    "dialingCode": "226",
+    "isoCode": "BF",
+    "name": "Burkina Faso",
+    "currency": "West African CFA franc",
+    "currencyISO": "XOF"
+  },
+  {
+    "asset": "bg_flag.png",
+    "dialingCode": "359",
+    "isoCode": "BG",
+    "name": "Bulgaria",
+    "currency": "Bulgarian lev",
+    "currencyISO": "BGN"
+  },
+  {
+    "asset": "bh_flag.png",
+    "dialingCode": "973",
+    "isoCode": "BH",
+    "name": "Bahrain",
+    "currency": "Bahraini dinar",
+    "currencyISO": "BHD"
+  },
+  {
+    "asset": "bi_flag.png",
+    "dialingCode": "257",
+    "isoCode": "BI",
+    "name": "Burundi",
+    "currency": "Burundian franc",
+    "currencyISO": "BIF"
+  },
+  {
+    "asset": "bj_flag.png",
+    "dialingCode": "229",
+    "isoCode": "BJ",
+    "name": "Benin",
+    "currency": "West African CFA franc",
+    "currencyISO": "XOF"
+  },
+  {
+    "asset": "bl_flag.png",
+    "dialingCode": "590",
+    "isoCode": "BL",
+    "name": "Saint-Barthélemy",
+    "currency": "Euro",
+    "currencyISO": "EUR"
+  },
+  {
+    "asset": "bm_flag.png",
+    "dialingCode": "1",
+    "isoCode": "BM",
+    "name": "Bermuda",
+    "currency": "Bermudian dollar",
+    "currencyISO": "BMD"
+  },
+  {
+    "asset": "bn_flag.png",
+    "dialingCode": "673",
+    "isoCode": "BN",
+    "name": "Brunei Darussalam",
+    "currency": "Brunei dollar",
+    "currencyISO": "BND"
+  },
+  {
+    "asset": "bo_flag.png",
+    "dialingCode": "591",
+    "isoCode": "BO",
+    "name": "Bolivia",
+    "currency": "Bolivian boliviano",
+    "currencyISO": "BOB"
+  },
+  {
+    "asset": "bq_flag.png",
+    "dialingCode": "599",
+    "isoCode": "BQ",
+    "name": "Bonaire, Sint Eustatius and Saba",
+    "currency": "United States dollar",
+    "currencyISO": "USD"
+  },
+  {
+    "asset": "br_flag.png",
+    "dialingCode": "55",
+    "isoCode": "BR",
+    "name": "Brazil",
+    "currency": "Brazilian real",
+    "currencyISO": "BRL"
+  },
+  {
+    "asset": "bs_flag.png",
+    "dialingCode": "1",
+    "isoCode": "BS",
+    "name": "Bahamas",
+    "currency": "Bahamian dollar",
+    "currencyISO": "BSD"
+  },
+  {
+    "asset": "bt_flag.png",
+    "dialingCode": "975",
+    "isoCode": "BT",
+    "name": "Bhutan",
+    "currency": "Bhutanese ngultrum",
+    "currencyISO": "BTN"
+  },
+  {
+    "asset": "bv_flag.png",
+    "dialingCode": "55",
+    "isoCode": "BV",
+    "name": "Bouvet Island",
+    "currency": "Norwegian krone",
+    "currencyISO": "NOK"
+  },
+  {
+    "asset": "bw_flag.png",
+    "dialingCode": "267",
+    "isoCode": "BW",
+    "name": "Botswana",
+    "currency": "Botswana pula",
+    "currencyISO": "BWP"
+  },
+  {
+    "asset": "by_flag.png",
+    "dialingCode": "375",
+    "isoCode": "BY",
+    "name": "Belarus",
+    "currency": "Belarusian ruble",
+    "currencyISO": "BYN"
+  },
+  {
+    "asset": "bz_flag.png",
+    "dialingCode": "501",
+    "isoCode": "BZ",
+    "name": "Belize",
+    "currency": "Belize dollar",
+    "currencyISO": "BZD"
+  },
+  {
+    "asset": "ca_flag.png",
+    "dialingCode": "1",
+    "isoCode": "CA",
+    "name": "Canada",
+    "currency": "Canadian dollar",
+    "currencyISO": "CAD"
+  },
+  {
+    "asset": "cc_flag.png",
+    "dialingCode": "891",
+    "isoCode": "CC",
+    "name": "Cocos (Keeling) Islands",
+    "currency": "Australian dollar",
+    "currencyISO": "AUD"
+  },
+  {
+    "asset": "cd_flag.png",
+    "dialingCode": "243",
+    "isoCode": "CD",
+    "name": "Democratic Republic of the Congo",
+    "currency": "Congolese franc",
+    "currencyISO": "CDF"
+  },
+  {
+    "asset": "cf_flag.png",
+    "dialingCode": "236",
+    "isoCode": "CF",
+    "name": "Central African Republic",
+    "currency": "Central African CFA franc",
+    "currencyISO": "XAF"
+  },
+  {
+    "asset": "cg_flag.png",
+    "dialingCode": "242",
+    "isoCode": "CG",
+    "name": "Republic of the Congo",
+    "currency": "Congolese franc",
+    "currencyISO": "CDF"
+  },
+  {
+    "asset": "ch_flag.png",
+    "dialingCode": "41",
+    "isoCode": "CH",
+    "name": "Switzerland",
+    "currency": "Swiss franc",
+    "currencyISO": "CHF"
+  },
+  {
+    "asset": "ci_flag.png",
+    "dialingCode": "225",
+    "isoCode": "CI",
+    "name": "Cote D'ivoire",
+    "currency": "West African CFA franc",
+    "currencyISO": "XOF"
+  },
+  {
+    "asset": "ck_flag.png",
+    "dialingCode": "682",
+    "isoCode": "CK",
+    "name": "Cook Islands",
+    "currency": "New Zealand dollar",
+    "currencyISO": "NZD"
+  },
+  {
+    "asset": "cl_flag.png",
+    "dialingCode": "56",
+    "isoCode": "CL",
+    "name": "Chile",
+    "currency": "Chilean peso",
+    "currencyISO": "CLP"
+  },
+  {
+    "asset": "cm_flag.png",
+    "dialingCode": "237",
+    "isoCode": "CM",
+    "name": "Cameroon",
+    "currency": "Central African CFA franc",
+    "currencyISO": "XAF"
+  },
+  {
+    "asset": "cn_flag.png",
+    "dialingCode": "86",
+    "isoCode": "CN",
+    "name": "China",
+    "currency": "Chinese yuan",
+    "currencyISO": "CNY"
+  },
+  {
+    "asset": "co_flag.png",
+    "dialingCode": "57",
+    "isoCode": "CO",
+    "name": "Colombia",
+    "currency": "Colombian peso",
+    "currencyISO": "COP"
+  },
+  {
+    "asset": "cr_flag.png",
+    "dialingCode": "506",
+    "isoCode": "CR",
+    "name": "Costa Rica",
+    "currency": "Costa Rican colón",
+    "currencyISO": "CRC"
+  },
+  {
+    "asset": "cu_flag.png",
+    "dialingCode": "53",
+    "isoCode": "CU",
+    "name": "Cuba",
+    "currency": "Cuban peso",
+    "currencyISO": "CUP"
+  },
+  {
+    "asset": "cv_flag.png",
+    "dialingCode": "238",
+    "isoCode": "CV",
+    "name": "Cape Verde",
+    "currency": "Cape Verdean escudo",
+    "currencyISO": "CVE"
+  },
+  {
+    "asset": "cw_flag.png",
+    "dialingCode": "599",
+    "isoCode": "CW",
+    "name": "Curaçao",
+    "currency": "United States dollar",
+    "currencyISO": "USD"
+  },
+  {
+    "asset": "cx_flag.png",
+    "dialingCode": "61",
+    "isoCode": "CX",
+    "name": "Christmas Island",
+    "currency": "Australian dollar",
+    "currencyISO": "AUD"
+  },
+  {
+    "asset": "cy_flag.png",
+    "dialingCode": "357",
+    "isoCode": "CY",
+    "name": "Cyprus",
+    "currency": "Euro",
+    "currencyISO": "EUR"
+  },
+  {
+    "asset": "cz_flag.png",
+    "dialingCode": "420",
+    "isoCode": "CZ",
+    "name": "Czech Republic",
+    "currency": "Czech koruna",
+    "currencyISO": "CZK"
+  },
+  {
+    "asset": "de_flag.png",
+    "dialingCode": "49",
+    "isoCode": "DE",
+    "name": "Germany",
+    "currency": "Euro",
+    "currencyISO": "EUR"
+  },
+  {
+    "asset": "dj_flag.png",
+    "dialingCode": "253",
+    "isoCode": "DJ",
+    "name": "Djibouti",
+    "currency": "Djiboutian franc",
+    "currencyISO": "DJF"
+  },
+  {
+    "asset": "dk_flag.png",
+    "dialingCode": "45",
+    "isoCode": "DK",
+    "name": "Denmark",
+    "currency": "Danish krone",
+    "currencyISO": "DKK"
+  },
+  {
+    "asset": "dm_flag.png",
+    "dialingCode": "1",
+    "isoCode": "DM",
+    "name": "Dominica",
+    "currency": "East Caribbean dollar",
+    "currencyISO": "XCD"
+  },
+  {
+    "asset": "do_flag.png",
+    "dialingCode": "1",
+    "isoCode": "DO",
+    "name": "Dominican Republic",
+    "currency": "East Caribbean dollar",
+    "currencyISO": "XCD"
+  },
+  {
+    "asset": "dz_flag.png",
+    "dialingCode": "213",
+    "isoCode": "DZ",
+    "name": "Algeria",
+    "currency": "Algerian dinar",
+    "currencyISO": "DZD"
+  },
+  {
+    "asset": "ec_flag.png",
+    "dialingCode": "593",
+    "isoCode": "EC",
+    "name": "Ecuador",
+    "currency": "United States dollar",
+    "currencyISO": "USD"
+  },
+  {
+    "asset": "ee_flag.png",
+    "dialingCode": "372",
+    "isoCode": "EE",
+    "name": "Estonia",
+    "currency": "Euro",
+    "currencyISO": "EUR"
+  },
+  {
+    "asset": "eg_flag.png",
+    "dialingCode": "20",
+    "isoCode": "EG",
+    "name": "Egypt",
+    "currency": "Egyptian pound",
+    "currencyISO": "EGP"
+  },
+  {
+    "asset": "eh_flag.png",
+    "dialingCode": "212",
+    "isoCode": "EH",
+    "name": "Western Sahara",
+    "currency": "Moroccan dirham",
+    "currencyISO": "MAD"
+  },
+  {
+    "asset": "er_flag.png",
+    "dialingCode": "291",
+    "isoCode": "ER",
+    "name": "Eritrea",
+    "currency": "Eritrean nakfa",
+    "currencyISO": "ERN"
+  },
+  {
+    "asset": "es_flag.png",
+    "dialingCode": "34",
+    "isoCode": "ES",
+    "name": "Spain",
+    "currency": "Euro",
+    "currencyISO": "EUR"
+  },
+  {
+    "asset": "et_flag.png",
+    "dialingCode": "251",
+    "isoCode": "ET",
+    "name": "Ethiopia",
+    "currency": "Ethiopian birr",
+    "currencyISO": "ETB"
+  },
+  {
+    "asset": "fi_flag.png",
+    "dialingCode": "358",
+    "isoCode": "FI",
+    "name": "Finland",
+    "currency": "Euro",
+    "currencyISO": "EUR"
+  },
+  {
+    "asset": "fj_flag.png",
+    "dialingCode": "679",
+    "isoCode": "FJ",
+    "name": "Fiji",
+    "currency": "Fijian dollar",
+    "currencyISO": "FJD"
+  },
+  {
+    "asset": "fk_flag.png",
+    "dialingCode": "500",
+    "isoCode": "FK",
+    "name": "Falkland Islands (Malvinas)",
+    "currency": "Falklands pound",
+    "currencyISO": "FKP"
+  },
+  {
+    "asset": "fm_flag.png",
+    "dialingCode": "691",
+    "isoCode": "FM",
+    "name": "Federated States Of Micronesia",
+    "currency": "United States dollar",
+    "currencyISO": "USD"
+  },
+  {
+    "asset": "fo_flag.png",
+    "dialingCode": "298",
+    "isoCode": "FO",
+    "name": "Faroe Islands",
+    "currency": "Faroese krona",
+    "currencyISO": "DKK"
+  },
+  {
+    "asset": "fr_flag.png",
+    "dialingCode": "33",
+    "isoCode": "FR",
+    "name": "France",
+    "currency": "Euro",
+    "currencyISO": "EUR"
+  },
+  {
+    "asset": "ga_flag.png",
+    "dialingCode": "241",
+    "isoCode": "GA",
+    "name": "Gabon",
+    "currency": "Central African CFA franc",
+    "currencyISO": "XAF"
+  },
+  {
+    "asset": "gb_flag.png",
+    "dialingCode": "44",
+    "isoCode": "GB",
+    "name": "United Kingdom",
+    "currency": "British pound",
+    "currencyISO": "GBP"
+  },
+  {
+    "asset": "gd_flag.png",
+    "dialingCode": "1",
+    "isoCode": "GD",
+    "name": "Grenada",
+    "currency": "East Caribbean dollar",
+    "currencyISO": "XCD"
+  },
+  {
+    "asset": "ge_flag.png",
+    "dialingCode": "995",
+    "isoCode": "GE",
+    "name": "Georgia",
+    "currency": "Georgian lari",
+    "currencyISO": "GEL"
+  },
+  {
+    "asset": "gf_flag.png",
+    "dialingCode": "594",
+    "isoCode": "GF",
+    "name": "French Guiana",
+    "currency": "Euro",
+    "currencyISO": "EUR"
+  },
+  {
+    "asset": "gg_flag.png",
+    "dialingCode": "44",
+    "isoCode": "GG",
+    "name": "Guernsey",
+    "currency": "British pound",
+    "currencyISO": "GBP"
+  },
+  {
+    "asset": "gh_flag.png",
+    "dialingCode": "233",
+    "isoCode": "GH",
+    "name": "Ghana",
+    "currency": "Ghanaian cedi",
+    "currencyISO": "GHS"
+  },
+  {
+    "asset": "gi_flag.png",
+    "dialingCode": "350",
+    "isoCode": "GI",
+    "name": "Gibraltar",
+    "currency": "Gibraltar pound",
+    "currencyISO": "GIP"
+  },
+  {
+    "asset": "gl_flag.png",
+    "dialingCode": "299",
+    "isoCode": "GL",
+    "name": "Greenland",
+    "currency": "Danish krone",
+    "currencyISO": "DKK"
+  },
+  {
+    "asset": "gm_flag.png",
+    "dialingCode": "220",
+    "isoCode": "GM",
+    "name": "Gambia",
+    "currency": "Gambian dalasi",
+    "currencyISO": "GMD"
+  },
+  {
+    "asset": "gn_flag.png",
+    "dialingCode": "224",
+    "isoCode": "GN",
+    "name": "Guinea",
+    "currency": "Guinean franc",
+    "currencyISO": "GNF"
+  },
+  {
+    "asset": "gp_flag.png",
+    "dialingCode": "590",
+    "isoCode": "GP",
+    "name": "Guadeloupe",
+    "currency": "Euro",
+    "currencyISO": "EUR"
+  },
+  {
+    "asset": "gq_flag.png",
+    "dialingCode": "240",
+    "isoCode": "GQ",
+    "name": "Equatorial Guinea",
+    "currency": "Central African CFA franc",
+    "currencyISO": "XAF"
+  },
+  {
+    "asset": "gr_flag.png",
+    "dialingCode": "30",
+    "isoCode": "GR",
+    "name": "Greece",
+    "currency": "Euro",
+    "currencyISO": "EUR"
+  },
+  {
+    "asset": "gs_flag.png",
+    "dialingCode": "500",
+    "isoCode": "GS",
+    "name": "South Georgia and The South Sandwich Islands",
+    "currency": "Georgian lari",
+    "currencyISO": "GEL"
+  },
+  {
+    "asset": "gt_flag.png",
+    "dialingCode": "502",
+    "isoCode": "GT",
+    "name": "Guatemala",
+    "currency": "Guatemalan quetzal",
+    "currencyISO": "GTQ"
+  },
+  {
+    "asset": "gu_flag.png",
+    "dialingCode": "1",
+    "isoCode": "GU",
+    "name": "Guam",
+    "currency": "United States dollar",
+    "currencyISO": "USD"
+  },
+  {
+    "asset": "gw_flag.png",
+    "dialingCode": "245",
+    "isoCode": "GW",
+    "name": "Guinea-bissau",
+    "currency": "West African CFA franc",
+    "currencyISO": "XOF"
+  },
+  {
+    "asset": "gy_flag.png",
+    "dialingCode": "592",
+    "isoCode": "GY",
+    "name": "Guyana",
+    "currency": "Guyanese dollar",
+    "currencyISO": "GYD"
+  },
+  {
+    "asset": "hk_flag.png",
+    "dialingCode": "852",
+    "isoCode": "HK",
+    "name": "Hong Kong",
+    "currency": "Hong Kong dollar",
+    "currencyISO": "HKD"
+  },
+  {
+    "asset": "hm_flag.png",
+    "dialingCode": "61",
+    "isoCode": "HM",
+    "name": "Heard and Mc Donald Islands",
+    "currency": "Australian dollar",
+    "currencyISO": "AUD"
+  },
+  {
+    "asset": "hn_flag.png",
+    "dialingCode": "504",
+    "isoCode": "HN",
+    "name": "Honduras",
+    "currency": "Honduran lempira",
+    "currencyISO": "HNL"
+  },
+  {
+    "asset": "hr_flag.png",
+    "dialingCode": "385",
+    "isoCode": "HR",
+    "name": "Croatia (Local Name: Hrvatska)",
+    "currency": "Croatian kuna",
+    "currencyISO": "HRK"
+  },
+  {
+    "asset": "ht_flag.png",
+    "dialingCode": "509",
+    "isoCode": "HT",
+    "name": "Haiti",
+    "currency": "Haitian gourde",
+    "currencyISO": "HTG"
+  },
+  {
+    "asset": "hu_flag.png",
+    "dialingCode": "36",
+    "isoCode": "HU",
+    "name": "Hungary",
+    "currency": "Hungarian forint",
+    "currencyISO": "HUF"
+  },
+  {
+    "asset": "id_flag.png",
+    "dialingCode": "62",
+    "isoCode": "ID",
+    "name": "Indonesia",
+    "currency": "Indonesian rupiah",
+    "currencyISO": "IDR"
+  },
+  {
+    "asset": "ie_flag.png",
+    "dialingCode": "353",
+    "isoCode": "IE",
+    "name": "Ireland",
+    "currency": "Euro",
+    "currencyISO": "EUR"
+  },
+  {
+    "asset": "il_flag.png",
+    "dialingCode": "972",
+    "isoCode": "IL",
+    "name": "Israel",
+    "currency": "Israeli new shekel",
+    "currencyISO": "ILS"
+  },
+  {
+    "asset": "im_flag.png",
+    "dialingCode": "44",
+    "isoCode": "IM",
+    "name": "Isle of Man",
+    "currency": "British pound",
+    "currencyISO": "GBP"
+  },
+  {
+    "asset": "in_flag.png",
+    "dialingCode": "91",
+    "isoCode": "IN",
+    "name": "India",
+    "currency": "Indian rupee",
+    "currencyISO": "INR"
+  },
+  {
+    "asset": "io_flag.png",
+    "dialingCode": "246",
+    "isoCode": "IO",
+    "name": "British Indian Ocean Territory",
+    "currency": "British pound",
+    "currencyISO": "GBP"
+  },
+  {
+    "asset": "iq_flag.png",
+    "dialingCode": "964",
+    "isoCode": "IQ",
+    "name": "Iraq",
+    "currency": "Iraqi dinar",
+    "currencyISO": "IQD"
+  },
+  {
+    "asset": "ir_flag.png",
+    "dialingCode": "98",
+    "isoCode": "IR",
+    "name": "Iran (Islamic Republic Of)",
+    "currency": "Iranian rial",
+    "currencyISO": "IRR"
+  },
+  {
+    "asset": "is_flag.png",
+    "dialingCode": "354",
+    "isoCode": "IS",
+    "name": "Iceland",
+    "currency": "Icelandic króna",
+    "currencyISO": "ISK"
+  },
+  {
+    "asset": "it_flag.png",
+    "dialingCode": "39",
+    "isoCode": "IT",
+    "name": "Italy",
+    "currency": "Euro",
+    "currencyISO": "EUR,"
+  },
+  {
+    "asset": "je_flag.png",
+    "dialingCode": "44",
+    "isoCode": "JE",
+    "name": "Jersey",
+    "currency": "British pound",
+    "currencyISO": "GBP"
+  },
+  {
+    "asset": "jm_flag.png",
+    "dialingCode": "1",
+    "isoCode": "JM",
+    "name": "Jamaica",
+    "currency": "Jamaican dollar",
+    "currencyISO": "JMD"
+  },
+  {
+    "asset": "jo_flag.png",
+    "dialingCode": "962",
+    "isoCode": "JO",
+    "name": "Jordan",
+    "currency": "Jordanian dinar",
+    "currencyISO": "JOD"
+  },
+  {
+    "asset": "jp_flag.png",
+    "dialingCode": "81",
+    "isoCode": "JP",
+    "name": "Japan",
+    "currency": "Japanese yen",
+    "currencyISO": "JPY"
+  },
+  {
+    "asset": "ke_flag.png",
+    "dialingCode": "254",
+    "isoCode": "KE",
+    "name": "Kenya",
+    "currency": "Kenyan shilling",
+    "currencyISO": "KES"
+  },
+  {
+    "asset": "kg_flag.png",
+    "dialingCode": "996",
+    "isoCode": "KG",
+    "name": "Kyrgyzstan",
+    "currency": "Kyrgyzstani som",
+    "currencyISO": "KGS"
+  },
+  {
+    "asset": "kh_flag.png",
+    "dialingCode": "855",
+    "isoCode": "KH",
+    "name": "Cambodia",
+    "currency": "Cambodian riel",
+    "currencyISO": "KHR"
+  },
+  {
+    "asset": "ki_flag.png",
+    "dialingCode": "686",
+    "isoCode": "KI",
+    "name": "Kiribati",
+    "currency": "Australian dollar",
+    "currencyISO": "AUD"
+  },
+  {
+    "asset": "km_flag.png",
+    "dialingCode": "269",
+    "isoCode": "KM",
+    "name": "Comoros",
+    "currency": "Comorian franc",
+    "currencyISO": "KMF"
+  },
+  {
+    "asset": "kn_flag.png",
+    "dialingCode": "1",
+    "isoCode": "KN",
+    "name": "Saint Kitts and Nevis",
+    "currency": "East Caribbean dollar",
+    "currencyISO": "XCD"
+  },
+  {
+    "asset": "kp_flag.png",
+    "dialingCode": "850",
+    "isoCode": "KP",
+    "name": "Democratic People's Republic Of Korea",
+    "currency": "North Korean won",
+    "currencyISO": "KPR"
+  },
+  {
+    "asset": "kr_flag.png",
+    "dialingCode": "82",
+    "isoCode": "KR",
+    "name": "Republic Of Korea",
+    "currency": "South Korean won",
+    "currencyISO": "KRW"
+  },
+  {
+    "asset": "kw_flag.png",
+    "dialingCode": "965",
+    "isoCode": "KW",
+    "name": "Kuwait",
+    "currency": "Kuwaiti dinar",
+    "currencyISO": "KWD"
+  },
+  {
+    "asset": "ky_flag.png",
+    "dialingCode": "965",
+    "isoCode": "KY",
+    "name": "Cayman Islands",
+    "currency": "East Caribbean dollar",
+    "currencyISO": "XCD"
+  },
+  {
+    "asset": "kz_flag.png",
+    "dialingCode": "7",
+    "isoCode": "KZ",
+    "name": "Kazakhstan",
+    "currency": "Kazakhstani tenge",
+    "currencyISO": "KZT"
+  },
+  {
+    "asset": "la_flag.png",
+    "dialingCode": "856",
+    "isoCode": "LA",
+    "name": "Lao People's Democratic Republic",
+    "currency": "Lao kip",
+    "currencyISO": "LAK"
+  },
+  {
+    "asset": "lb_flag.png",
+    "dialingCode": "961",
+    "isoCode": "LB",
+    "name": "Lebanon",
+    "currency": "Lebanese pound",
+    "currencyISO": "LBP"
+  },
+  {
+    "asset": "lc_flag.png",
+    "dialingCode": "1",
+    "isoCode": "LC",
+    "name": "Saint Lucia",
+    "currency": "East Caribbean dollar",
+    "currencyISO": "XCD"
+  },
+  {
+    "asset": "li_flag.png",
+    "dialingCode": "423",
+    "isoCode": "LI",
+    "name": "Liechtenstein",
+    "currency": "Swiss franc",
+    "currencyISO": "CHF"
+  },
+  {
+    "asset": "lk_flag.png",
+    "dialingCode": "94",
+    "isoCode": "LK",
+    "name": "Sri Lanka",
+    "currency": "Sri Lankan rupee",
+    "currencyISO": "LKR"
+  },
+  {
+    "asset": "lr_flag.png",
+    "dialingCode": "231",
+    "isoCode": "LR",
+    "name": "Liberia",
+    "currency": "Liberian dollar",
+    "currencyISO": "LRD"
+  },
+  {
+    "asset": "ls_flag.png",
+    "dialingCode": "266",
+    "isoCode": "LS",
+    "name": "Lesotho",
+    "currency": "Lesotho loti",
+    "currencyISO": "LSL"
+  },
+  {
+    "asset": "lt_flag.png",
+    "dialingCode": "370",
+    "isoCode": "LT",
+    "name": "Lithuania",
+    "currency": "Euro",
+    "currencyISO": "EUR"
+  },
+  {
+    "asset": "lu_flag.png",
+    "dialingCode": "352",
+    "isoCode": "LU",
+    "name": "Luxembourg",
+    "currency": "Euro",
+    "currencyISO": "EUR"
+  },
+  {
+    "asset": "lv_flag.png",
+    "dialingCode": "371",
+    "isoCode": "LV",
+    "name": "Latvia",
+    "currency": "Euro",
+    "currencyISO": "EUR"
+  },
+  {
+    "asset": "ly_flag.png",
+    "dialingCode": "218",
+    "isoCode": "LY",
+    "name": "Libyan Arab Jamahiriya",
+    "currency": "Libyan dinar",
+    "currencyISO": "LYD"
+  },
+  {
+    "asset": "ma_flag.png",
+    "dialingCode": "212",
+    "isoCode": "MA",
+    "name": "Morocco",
+    "currency": "Moroccan dirham",
+    "currencyISO": "MAD"
+  },
+  {
+    "asset": "mc_flag.png",
+    "dialingCode": "377",
+    "isoCode": "MC",
+    "name": "Monaco",
+    "currency": "Euro",
+    "currencyISO": "EUR"
+  },
+  {
+    "asset": "md_flag.png",
+    "dialingCode": "373",
+    "isoCode": "MD",
+    "name": "Moldova, Republic Of",
+    "currency": "Moldovan leu",
+    "currencyISO": "MDL"
+  },
+  {
+    "asset": "me_flag.png",
+    "dialingCode": "382",
+    "isoCode": "ME",
+    "name": "Montenegro",
+    "currency": "Euro",
+    "currencyISO": "EUR"
+  },
+  {
+    "asset": "mf_flag.png",
+    "dialingCode": "1",
+    "isoCode": "MF",
+    "name": "Saint-Martin",
+    "currency": "Euro",
+    "currencyISO": "EUR"
+  },
+  {
+    "asset": "mg_flag.png",
+    "dialingCode": "261",
+    "isoCode": "MG",
+    "name": "Madagascar",
+    "currency": "Malagasy ariary",
+    "currencyISO": "MGA"
+  },
+  {
+    "asset": "mh_flag.png",
+    "dialingCode": "692",
+    "isoCode": "MH",
+    "name": "Marshall Islands",
+    "currency": "United States dollar",
+    "currencyISO": "USD"
+  },
+  {
+    "asset": "mk_flag.png",
+    "dialingCode": "389",
+    "isoCode": "MK",
+    "name": "Macedonia, The Former Yugoslav Republic Of",
+    "currency": "Macedonian denar",
+    "currencyISO": "MKD"
+  },
+  {
+    "asset": "ml_flag.png",
+    "dialingCode": "223",
+    "isoCode": "ML",
+    "name": "Mali",
+    "currency": "West African CFA franc",
+    "currencyISO": "XOF"
+  },
+  {
+    "asset": "mm_flag.png",
+    "dialingCode": "95",
+    "isoCode": "MM",
+    "name": "Myanmar",
+    "currency": "Burmese kyat",
+    "currencyISO": "MMK"
+  },
+  {
+    "asset": "mn_flag.png",
+    "dialingCode": "976",
+    "isoCode": "MN",
+    "name": "Mongolia",
+    "currency": "Mongolian tögrög",
+    "currencyISO": "MNT"
+  },
+  {
+    "asset": "mo_flag.png",
+    "dialingCode": "853",
+    "isoCode": "MO",
+    "name": "Macau",
+    "currency": "Macanese pataca",
+    "currencyISO": "MOP"
+  },
+  {
+    "asset": "mp_flag.png",
+    "dialingCode": "1",
+    "isoCode": "MP",
+    "name": "Northern Mariana Islands",
+    "currency": "United States dollar",
+    "currencyISO": "USD"
+  },
+  {
+    "asset": "mq_flag.png",
+    "dialingCode": "596",
+    "isoCode": "MQ",
+    "name": "Martinique",
+    "currency": "Euro",
+    "currencyISO": "EUR"
+  },
+  {
+    "asset": "mr_flag.png",
+    "dialingCode": "222",
+    "isoCode": "MR",
+    "name": "Mauritania",
+    "currency": "Mauritanian ouguiya",
+    "currencyISO": "EUR"
+  },
+  {
+    "asset": "ms_flag.png",
+    "dialingCode": "1",
+    "isoCode": "MS",
+    "name": "Montserrat",
+    "currency": "East Caribbean dollar",
+    "currencyISO": "XCD"
+  },
+  {
+    "asset": "mt_flag.png",
+    "dialingCode": "356",
+    "isoCode": "MT",
+    "name": "Malta",
+    "currency": "Euro",
+    "currencyISO": "EUR"
+  },
+  {
+    "asset": "mu_flag.png",
+    "dialingCode": "230",
+    "isoCode": "MU",
+    "name": "Mauritius",
+    "currency": "Mauritian rupee",
+    "currencyISO": "MUR"
+  },
+  {
+    "asset": "mv_flag.png",
+    "dialingCode": "960",
+    "isoCode": "MV",
+    "name": "Maldives",
+    "currency": "Maldivian rufiyaa",
+    "currencyISO": "MVR"
+  },
+  {
+    "asset": "mw_flag.png",
+    "dialingCode": "265",
+    "isoCode": "MW",
+    "name": "Malawi",
+    "currency": "Malawian kwacha",
+    "currencyISO": "MWK"
+  },
+  {
+    "asset": "mx_flag.png",
+    "dialingCode": "52",
+    "isoCode": "MX",
+    "name": "Mexico",
+    "currency": "Mexican peso",
+    "currencyISO": "MXN"
+  },
+  {
+    "asset": "my_flag.png",
+    "dialingCode": "60",
+    "isoCode": "MY",
+    "name": "Malaysia",
+    "currency": "Malaysian ringgit",
+    "currencyISO": "MYR"
+  },
+  {
+    "asset": "mz_flag.png",
+    "dialingCode": "258",
+    "isoCode": "MZ",
+    "name": "Mozambique",
+    "currency": "Mozambican metical",
+    "currencyISO": "MZN"
+  },
+  {
+    "asset": "na_flag.png",
+    "dialingCode": "264",
+    "isoCode": "NA",
+    "name": "Namibia",
+    "currency": "Namibian dollar",
+    "currencyISO": "NAD"
+  },
+  {
+    "asset": "nc_flag.png",
+    "dialingCode": "687",
+    "isoCode": "NC",
+    "name": "New Caledonia",
+    "currency": "CFP franc",
+    "currencyISO": "XPF"
+  },
+  {
+    "asset": "ne_flag.png",
+    "dialingCode": "227",
+    "isoCode": "NE",
+    "name": "Niger",
+    "currency": "West African CFA franc",
+    "currencyISO": "XOF"
+  },
+  {
+    "asset": "nf_flag.png",
+    "dialingCode": "672",
+    "isoCode": "NF",
+    "name": "Norfolk Island",
+    "currency": "East Caribbean dollar",
+    "currencyISO": "XCD"
+  },
+  {
+    "asset": "ng_flag.png",
+    "dialingCode": "234",
+    "isoCode": "NG",
+    "name": "Nigeria",
+    "currency": "Nigerian naira",
+    "currencyISO": "NGN"
+  },
+  {
+    "asset": "ni_flag.png",
+    "dialingCode": "505",
+    "isoCode": "NI",
+    "name": "Nicaragua",
+    "currency": "Nicaraguan córdoba",
+    "currencyISO": "NIO"
+  },
+  {
+    "asset": "nl_flag.png",
+    "dialingCode": "31",
+    "isoCode": "NL",
+    "name": "Netherlands",
+    "currency": "Euro",
+    "currencyISO": "EUR"
+  },
+  {
+    "asset": "no_flag.png",
+    "dialingCode": "47",
+    "isoCode": "NO",
+    "name": "Norway",
+    "currency": "Norwegian krone",
+    "currencyISO": "NOK"
+  },
+  {
+    "asset": "np_flag.png",
+    "dialingCode": "977",
+    "isoCode": "NP",
+    "name": "Nepal",
+    "currency": "Nepalese rupee",
+    "currencyISO": "NPR"
+  },
+  {
+    "asset": "nr_flag.png",
+    "dialingCode": "674",
+    "isoCode": "NR",
+    "name": "Nauru",
+    "currency": "Australian dollar",
+    "currencyISO": "AUD"
+  },
+  {
+    "asset": "nu_flag.png",
+    "dialingCode": "683",
+    "isoCode": "NU",
+    "name": "Niue",
+    "currency": "Australian dollar",
+    "currencyISO": "AUD"
+  },
+  {
+    "asset": "nz_flag.png",
+    "dialingCode": "64",
+    "isoCode": "NZ",
+    "name": "New Zealand",
+    "currency": "New Zealand dollar",
+    "currencyISO": "NZD"
+  },
+  {
+    "asset": "om_flag.png",
+    "dialingCode": "968",
+    "isoCode": "OM",
+    "name": "Oman",
+    "currency": "Omani rial",
+    "currencyISO": "OMR"
+  },
+  {
+    "asset": "pa_flag.png",
+    "dialingCode": "507",
+    "isoCode": "PA",
+    "name": "Panama",
+    "currency": "Panamanian balboa",
+    "currencyISO": "PAB"
+  },
+  {
+    "asset": "pe_flag.png",
+    "dialingCode": "51",
+    "isoCode": "PE",
+    "name": "Peru",
+    "currency": "Peruvian sol",
+    "currencyISO": "PEN"
+  },
+  {
+    "asset": "pf_flag.png",
+    "dialingCode": "689",
+    "isoCode": "PF",
+    "name": "French Polynesia",
+    "currency": "Euro",
+    "currencyISO": "EUR"
+  },
+  {
+    "asset": "pg_flag.png",
+    "dialingCode": "675",
+    "isoCode": "PG",
+    "name": "Papua New Guinea",
+    "currency": "Papua New Guinean kina",
+    "currencyISO": "PGK"
+  },
+  {
+    "asset": "ph_flag.png",
+    "dialingCode": "63",
+    "isoCode": "PH",
+    "name": "Philippines",
+    "currency": "Philippine peso",
+    "currencyISO": "PHP"
+  },
+  {
+    "asset": "pk_flag.png",
+    "dialingCode": "92",
+    "isoCode": "PK",
+    "name": "Pakistan",
+    "currency": "Pakistani rupee",
+    "currencyISO": "PKR"
+  },
+  {
+    "asset": "pl_flag.png",
+    "dialingCode": "48",
+    "isoCode": "PL",
+    "name": "Poland",
+    "currency": "Polish zloty",
+    "currencyISO": "PLN"
+  },
+  {
+    "asset": "pm_flag.png",
+    "dialingCode": "508",
+    "isoCode": "PM",
+    "name": "Saint Pierre and Miquelon",
+    "currency": "Euro",
+    "currencyISO": "EUR"
+  },
+  {
+    "asset": "pn_flag.png",
+    "dialingCode": "64",
+    "isoCode": "PN",
+    "name": "Pitcairn",
+    "currency": "New Zealand dollar",
+    "currencyISO": "ZND"
+  },
+  {
+    "asset": "pr_flag.png",
+    "dialingCode": "1",
+    "isoCode": "PR",
+    "name": "Puerto Rico",
+    "currency": "United States dollar",
+    "currencyISO": "USD"
+  },
+  {
+    "asset": "ps_flag.png",
+    "dialingCode": "970",
+    "isoCode": "PS",
+    "name": "Palestinian Territory, Occupied",
+    "currency": "Israeli new shekel",
+    "currencyISO": "ILS"
+  },
+  {
+    "asset": "pt_flag.png",
+    "dialingCode": "351",
+    "isoCode": "PT",
+    "name": "Portugal",
+    "currency": "Euro",
+    "currencyISO": "EUR"
+  },
+  {
+    "asset": "pw_flag.png",
+    "dialingCode": "680",
+    "isoCode": "PW",
+    "name": "Palau",
+    "currency": "United States dollar",
+    "currencyISO": "USD"
+  },
+  {
+    "asset": "py_flag.png",
+    "dialingCode": "595",
+    "isoCode": "PY",
+    "name": "Paraguay",
+    "currency": "Paraguayan guaraní",
+    "currencyISO": "PYG"
+  },
+  {
+    "asset": "qa_flag.png",
+    "dialingCode": "974",
+    "isoCode": "QA",
+    "name": "Qatar",
+    "currency": "Qatari riyal",
+    "currencyISO": "QAR"
+  },
+  {
+    "asset": "re_flag.png",
+    "dialingCode": "262",
+    "isoCode": "RE",
+    "name": "Reunion",
+    "currency": "Euro",
+    "currencyISO": "EUR"
+  },
+  {
+    "asset": "ro_flag.png",
+    "dialingCode": "40",
+    "isoCode": "RO",
+    "name": "Romania",
+    "currency": "Romanian leu",
+    "currencyISO": "RON"
+  },
+  {
+    "asset": "rs_flag.png",
+    "dialingCode": "381",
+    "isoCode": "RS",
+    "name": "Serbia",
+    "currency": "Serbian dinar",
+    "currencyISO": "RSD"
+  },
+  {
+    "asset": "ru_flag.png",
+    "dialingCode": "7",
+    "isoCode": "RU",
+    "name": "Russian Federation",
+    "currency": "Russian ruble",
+    "currencyISO": "RUB"
+  },
+  {
+    "asset": "rw_flag.png",
+    "dialingCode": "250",
+    "isoCode": "RW",
+    "name": "Rwanda",
+    "currency": "Rwandan franc",
+    "currencyISO": "RWF"
+  },
+  {
+    "asset": "sa_flag.png",
+    "dialingCode": "966",
+    "isoCode": "SA",
+    "name": "Saudi Arabia",
+    "currency": "Saudi riyal",
+    "currencyISO": "SAR"
+  },
+  {
+    "asset": "sb_flag.png",
+    "dialingCode": "677",
+    "isoCode": "SB",
+    "name": "Solomon Islands",
+    "currency": "Solomon Islands dollar",
+    "currencyISO": "SBD"
+  },
+  {
+    "asset": "sc_flag.png",
+    "dialingCode": "248",
+    "isoCode": "SC",
+    "name": "Seychelles",
+    "currency": "Seychellois rupee",
+    "currencyISO": "SCR"
+  },
+  {
+    "asset": "sd_flag.png",
+    "dialingCode": "249",
+    "isoCode": "SD",
+    "name": "Sudan",
+    "currency": "Sudanese pound",
+    "currencyISO": "SDG"
+  },
+  {
+    "asset": "se_flag.png",
+    "dialingCode": "46",
+    "isoCode": "SE",
+    "name": "Sweden",
+    "currency": "Swedish krona",
+    "currencyISO": "SEK"
+  },
+  {
+    "asset": "sg_flag.png",
+    "dialingCode": "65",
+    "isoCode": "SG",
+    "name": "Singapore",
+    "currency": "Singapore dollar",
+    "currencyISO": "SGD"
+  },
+  {
+    "asset": "sh_flag.png",
+    "dialingCode": "290",
+    "isoCode": "SH",
+    "name": "Saint Helena",
+    "currency": "British pound",
+    "currencyISO": "GBP"
+  },
+  {
+    "asset": "si_flag.png",
+    "dialingCode": "386",
+    "isoCode": "SI",
+    "name": "Slovenia",
+    "currency": "Euro",
+    "currencyISO": "EUR"
+  },
+  {
+    "asset": "sj_flag.png",
+    "dialingCode": "47",
+    "isoCode": "SJ",
+    "name": "Svalbard and Jan Mayen Islands",
+    "currency": "Norwegian krone",
+    "currencyISO": "NOK"
+  },
+  {
+    "asset": "sk_flag.png",
+    "dialingCode": "421",
+    "isoCode": "SK",
+    "name": "Slovakia",
+    "currency": "Euro",
+    "currencyISO": "EUR"
+  },
+  {
+    "asset": "sl_flag.png",
+    "dialingCode": "232",
+    "isoCode": "SL",
+    "name": "Sierra Leone",
+    "currency": "Sierra Leonean leone",
+    "currencyISO": "SLL"
+  },
+  {
+    "asset": "sm_flag.png",
+    "dialingCode": "378",
+    "isoCode": "SM",
+    "name": "San Marino",
+    "currency": "Euro",
+    "currencyISO": "EUR"
+  },
+  {
+    "asset": "sn_flag.png",
+    "dialingCode": "221",
+    "isoCode": "SN",
+    "name": "Senegal",
+    "currency": "West African CFA franc",
+    "currencyISO": "XOF"
+  },
+  {
+    "asset": "so_flag.png",
+    "dialingCode": "252",
+    "isoCode": "SO",
+    "name": "Somalia",
+    "currency": "Somali shilling",
+    "currencyISO": "SOS"
+  },
+  {
+    "asset": "sr_flag.png",
+    "dialingCode": "597",
+    "isoCode": "SR",
+    "name": "Suriname",
+    "currency": "Surinamese dollar",
+    "currencyISO": "SRD"
+  },
+  {
+    "asset": "ss_flag.png",
+    "dialingCode": "211",
+    "isoCode": "SS",
+    "name": "South Sudan",
+    "currency": "South Sudanese pound",
+    "currencyISO": "SSP"
+  },
+  {
+    "asset": "st_flag.png",
+    "dialingCode": "239",
+    "isoCode": "ST",
+    "name": "Sao Tome and Principe",
+    "currency": "São Tomé and Príncipe dobra",
+    "currencyISO": "STD"
+  },
+  {
+    "asset": "sv_flag.png",
+    "dialingCode": "503",
+    "isoCode": "SV",
+    "name": "El Salvador",
+    "currency": "United States dollar",
+    "currencyISO": "USD"
+  },
+  {
+    "asset": "sx_flag.png",
+    "dialingCode": "1",
+    "isoCode": "SX",
+    "name": "Sint Maarten",
+    "currency": "Euro",
+    "currencyISO": "EUR"
+  },
+  {
+    "asset": "sy_flag.png",
+    "dialingCode": "963",
+    "isoCode": "SY",
+    "name": "Syrian Arab Republic",
+    "currency": "Syrian pound",
+    "currencyISO": "SYP"
+  },
+  {
+    "asset": "sz_flag.png",
+    "dialingCode": "268",
+    "isoCode": "SZ",
+    "name": "Swaziland",
+    "currency": "Swazi lilangeni",
+    "currencyISO": "SZL"
+  },
+  {
+    "asset": "tc_flag.png",
+    "dialingCode": "1",
+    "isoCode": "TC",
+    "name": "Turks and Caicos Islands",
+    "currency": "United States dollar",
+    "currencyISO": "USD"
+  },
+  {
+    "asset": "td_flag.png",
+    "dialingCode": "235",
+    "isoCode": "TD",
+    "name": "Chad",
+    "currency": "Central African CFA franc",
+    "currencyISO": "XAF"
+  },
+  {
+    "asset": "tf_flag.png",
+    "dialingCode": "262",
+    "isoCode": "TF",
+    "name": "French Southern Territories",
+    "currency": "Euro",
+    "currencyISO": "EUR"
+  },
+  {
+    "asset": "tg_flag.png",
+    "dialingCode": "228",
+    "isoCode": "TG",
+    "name": "Togo",
+    "currency": "West African CFA franc",
+    "currencyISO": "XOF"
+  },
+  {
+    "asset": "th_flag.png",
+    "dialingCode": "66",
+    "isoCode": "TH",
+    "name": "Thailand",
+    "currency": "Thai baht",
+    "currencyISO": "THB"
+  },
+  {
+    "asset": "tj_flag.png",
+    "dialingCode": "992",
+    "isoCode": "TJ",
+    "name": "Tajikistan",
+    "currency": "Tajikistani somoni",
+    "currencyISO": "TJS"
+  },
+  {
+    "asset": "tk_flag.png",
+    "dialingCode": "690",
+    "isoCode": "TK",
+    "name": "Tokelau",
+    "currency": "New Zealand dollar",
+    "currencyISO": "NZD"
+  },
+  {
+    "asset": "tl_flag.png",
+    "dialingCode": "670",
+    "isoCode": "TL",
+    "name": "Timor-leste",
+    "currency": "United States dollar",
+    "currencyISO": "USD"
+  },
+  {
+    "asset": "tm_flag.png",
+    "dialingCode": "993",
+    "isoCode": "TM",
+    "name": "Turkmenistan",
+    "currency": "Turkmenistan manat",
+    "currencyISO": "TMT"
+  },
+  {
+    "asset": "tn_flag.png",
+    "dialingCode": "216",
+    "isoCode": "TN",
+    "name": "Tunisia",
+    "currency": "Tunisian dinar",
+    "currencyISO": "TND"
+  },
+  {
+    "asset": "to_flag.png",
+    "dialingCode": "676",
+    "isoCode": "TO",
+    "name": "Tonga",
+    "currency": "Tongan pa'anga",
+    "currencyISO": "TOP"
+  },
+  {
+    "asset": "tr_flag.png",
+    "dialingCode": "90",
+    "isoCode": "TR",
+    "name": "Turkey",
+    "currency": "Turkish lira",
+    "currencyISO": "TRY"
+  },
+  {
+    "asset": "tt_flag.png",
+    "dialingCode": "1",
+    "isoCode": "TT",
+    "name": "Trinidad and Tobago",
+    "currency": "Trinidad and Tobago dollar",
+    "currencyISO": "TTD"
+  },
+  {
+    "asset": "tv_flag.png",
+    "dialingCode": "688",
+    "isoCode": "TV",
+    "name": "Tuvalu",
+    "currency": "Australian dollar",
+    "currencyISO": "AUD"
+  },
+  {
+    "asset": "tw_flag.png",
+    "dialingCode": "886",
+    "isoCode": "TW",
+    "name": "Taiwan",
+    "currency": "New Taiwan dollar",
+    "currencyISO": "TWD"
+  },
+  {
+    "asset": "tz_flag.png",
+    "dialingCode": "255",
+    "isoCode": "TZ",
+    "name": "Tanzania, United Republic Of",
+    "currency": "Tanzanian shilling",
+    "currencyISO": "TZS"
+  },
+  {
+    "asset": "ua_flag.png",
+    "dialingCode": "380",
+    "isoCode": "UA",
+    "name": "Ukraine",
+    "currency": "Ukrainian hryvnia",
+    "currencyISO": "UKH"
+  },
+  {
+    "asset": "ug_flag.png",
+    "dialingCode": "256",
+    "isoCode": "UG",
+    "name": "Uganda",
+    "currency": "Ugandan shilling",
+    "currencyISO": "UGX"
+  },
+  {
+    "asset": "um_flag.png",
+    "dialingCode": "1",
+    "isoCode": "UM",
+    "name": "United States Minor Outlying Islands",
+    "currency": "United States dollar",
+    "currencyISO": "USD"
+  },
+  {
+    "asset": "us_flag.png",
+    "dialingCode": "1",
+    "isoCode": "US",
+    "name": "United States",
+    "currency": "United States dollar",
+    "currencyISO": "USD"
+  },
+  {
+    "asset": "uy_flag.png",
+    "dialingCode": "598",
+    "isoCode": "UY",
+    "name": "Uruguay",
+    "currency": "Uruguayan peso",
+    "currencyISO": "UYU"
+  },
+  {
+    "asset": "uz_flag.png",
+    "dialingCode": "998",
+    "isoCode": "UZ",
+    "name": "Uzbekistan",
+    "currency": "Uzbekistani som",
+    "currencyISO": "UZS"
+  },
+  {
+    "asset": "va_flag.png",
+    "dialingCode": "379",
+    "isoCode": "VA",
+    "name": "Vatican City State (Holy See)",
+    "currency": "Euro",
+    "currencyISO": "EUR"
+  },
+  {
+    "asset": "vc_flag.png",
+    "dialingCode": "1",
+    "isoCode": "VC",
+    "name": "Saint Vincent and The Grenadines",
+    "currency": "East Caribbean dollar",
+    "currencyISO": "XCD"
+  },
+  {
+    "asset": "ve_flag.png",
+    "dialingCode": "58",
+    "isoCode": "VE",
+    "name": "Venezuela",
+    "currency": "Venezuelan bolívar",
+    "currencyISO": "VEF"
+  },
+  {
+    "asset": "vg_flag.png",
+    "dialingCode": "1",
+    "isoCode": "VG",
+    "name": "Virgin Islands (British)",
+    "currency": "British pound",
+    "currencyISO": "GBP"
+  },
+  {
+    "asset": "vi_flag.png",
+    "dialingCode": "1",
+    "isoCode": "VI",
+    "name": "Virgin Islands (U.S.)",
+    "currency": "United States dollar",
+    "currencyISO": "USD"
+  },
+  {
+    "asset": "vn_flag.png",
+    "dialingCode": "84",
+    "isoCode": "VN",
+    "name": "Vietnam",
+    "currency": "Vietnamese dong",
+    "currencyISO": "VND"
+  },
+  {
+    "asset": "vu_flag.png",
+    "dialingCode": "678",
+    "isoCode": "VU",
+    "name": "Vanuatu",
+    "currency": "Vanuatu vatu",
+    "currencyISO": "VUV"
+  },
+  {
+    "asset": "wf_flag.png",
+    "dialingCode": "681",
+    "isoCode": "WF",
+    "name": "Wallis and Futuna Islands",
+    "currency": "CFP franc",
+    "currencyISO": "XPF"
+  },
+  {
+    "asset": "ws_flag.png",
+    "dialingCode": "685",
+    "isoCode": "WS",
+    "name": "Samoa",
+    "currency": "Samoan tala",
+    "currencyISO": "WST"
+  },
+  {
+    "asset": "ye_flag.png",
+    "dialingCode": "967",
+    "isoCode": "YE",
+    "name": "Yemen",
+    "currency": "Yemeni rial",
+    "currencyISO": "YER"
+  },
+  {
+    "asset": "yt_flag.png",
+    "dialingCode": "262",
+    "isoCode": "YT",
+    "name": "Mayotte",
+    "currency": "Euro",
+    "currencyISO": "EUR"
+  },
+  {
+    "asset": "za_flag.png",
+    "dialingCode": "27",
+    "isoCode": "ZA",
+    "name": "South Africa",
+    "currency": "South African rand",
+    "currencyISO": "ZAR"
+  },
+  {
+    "asset": "zm_flag.png",
+    "dialingCode": "260",
+    "isoCode": "ZM",
+    "name": "Zambia",
+    "currency": "Zambian kwacha",
+    "currencyISO": "ZMW"
+  },
+  {
+    "asset": "zw_flag.png",
+    "dialingCode": "263",
+    "isoCode": "ZW",
+    "name": "Zimbabwe",
+    "currency": "United States dollar",
+    "currencyISO": "USD"
+  }
+]

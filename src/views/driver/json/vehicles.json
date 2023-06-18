@@ -1,0 +1,18 @@
+[
+  { "Code": "TT23", "Value": "سيارة سوزوكي مفتوحة", "CarImg": "TT23.png" },
+  { "Code": "TT1", "Value": "شاحنة خفيفة الحمولة", "CarImg": "TT1.png" },
+  { "Code": "TT2", "Value": "شاحنة متوسطة الحمولة", "CarImg": "TT2.png" },
+  { "Code": "TT3", "Value": "شاحنة ثقيلة الحمولة", "CarImg": "TT3.png" },
+  { "Code": "TT4", "Value": "شاحنة نقل مقطورة", "CarImg": "TT4.png" },
+  { "Code": "TT5", "Value": "شاحنة نصف مقطورة", "CarImg": "TT5.png" },
+  { "Code": "TT6", "Value": "شاحنة مقطورة مسطحة", "CarImg": "TT6.png" },
+  { "Code": "TT24", "Value": "سيارة سوزوكي مغلقة", "CarImg": "TT24.png" },
+  { "Code": "TT7", "Value": "شاحنة خفيفة صندوق", "CarImg": "TT7.png" },
+  { "Code": "TT8", "Value": "شاحنة متوسطة صندوق", "CarImg": "TT8.png" },
+  { "Code": "TT9", "Value": "شاحنة ثقيلة صندوق", "CarImg": "TT9.png" },
+  { "Code": "TT10", "Value": "شاحنة نصف مقطورة صندوق", "CarImg": "TT10.png" },
+  { "Code": "TT11", "Value": "شاحنة خفيفة مبردة", "CarImg": "TT11.png" },
+  { "Code": "TT12", "Value": "شاحنة متوسطة مبردة", "CarImg": "TT12.png" },
+  { "Code": "TT13", "Value": "شاحنة ثقيلة مبردة ", "CarImg": "TT13.png" },
+  { "Code": "TT14", "Value": "شاحنة نصف مقطورة مبردة", "CarImg": "TT14.png" }
+]
